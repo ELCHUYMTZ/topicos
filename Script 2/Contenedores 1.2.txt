@@ -1,0 +1,1 @@
+Este script es una actualización del script 1, en el cual se le agrega la función de evitar que los colores se repitan. Esto cuenta con 20 colores diferentes.
