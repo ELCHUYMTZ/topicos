@@ -1,0 +1,1 @@
+Este script genera 10 contenedores de tamaño 100px y le asigna un color al azar.
