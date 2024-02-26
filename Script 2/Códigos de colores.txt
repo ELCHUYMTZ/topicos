@@ -1,0 +1,20 @@
+#FF0000: Rojo
+#00FF00: Verde
+#0000FF: Azul
+#FFFF00: Amarillo
+#00FFFF: Cian
+#FF00FF: Magenta
+#C0C0C0: Plata
+#808080: Gris
+#800000: Marrón
+#808000: Oliva
+#008000: Verde oscuro
+#800080: Púrpura
+#008080: Verde azulado
+#000080: Azul marino
+#4B0082: Indigo
+#7CFC00: Verde césped
+#ADFF2F: Verde amarillento
+#FFD700: Oro
+#D2691E: Chocolate
+#8B4513: Marrón silla de montar
