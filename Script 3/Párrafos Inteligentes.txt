@@ -1,0 +1,2 @@
+Este script genera cinco párrafos, los cuales tienen texto generado de manera aleatoria mediante la función generarPalabraAleatoria().
+el tamaño del texto es de entre 50px y 100px.
